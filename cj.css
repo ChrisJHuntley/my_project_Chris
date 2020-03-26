@@ -28,74 +28,74 @@ body{
 .Raptors{
     grid-column:1 ;
     grid-row: 5;
-    border: black 4px solid;
+    border: white 4px solid;
 }
 .Bucks{
     grid-column:1 ;
     grid-row: 6;
-    border: black 4px solid;
+    border:green 4px solid;
 }
 
 .Heat{
     grid-column: 1;
     grid-row:7 ;
-    border: black 4px solid;
+    border:yellow 4px solid;
 }
 .Pelicans{
     grid-column: 1;
     grid-row: 8;
-    border: black 4px solid;
+    border: burlywood 4px solid;
 }
 .Sixers{
     grid-column:1 ;
     grid-row: 9;
-    border: black 4px solid;
+    border:blue 4px solid;
 }
 .Mavericks{
-    grid-column: ;
+    grid-column:1 ;
     grid-row: 10;
-    border: black 4px solid;
+    border: skyblue 4px solid;
 }
 .Spurs{
     grid-column:1 ;
     grid-row:11 ;
-    border: black 4px solid;
+    border:gray 4px solid;
 }
 .Knicks{
 
     grid-column:1 ;
     grid-row: 12;
-    border: black 4px solid;
+    border:orange 4px solid;
 }
 .Thunder{
     grid-column: 1;
     grid-row: 13;
-    border: black 4px solid;
+    border:blue 4px solid;
 }
 .Bulls{
     grid-column:2 ;
     grid-row: 1;
-    border: black 4px solid;
+    border: red 4px solid;
 }
 .Nuggets{
     grid-column:2 ;
     grid-row: 2;
-    border: black 4px solid;
+    border: gold 4px solid;
 }
 .TrailBlazers{
     grid-column:2 ;
     grid-row:3 ;
-    border: black 4px solid;
+    border: red 4px solid;
 }
 .Cavaliers{
     grid-column:2 ;
     grid-row: 4;
-    border: black 4px solid;
+    border: gold 4px solid;
 }
 .Jazz{
     grid-column:2 ;
     grid-row: 5;
-    border: black 4px solid;
+    border:green 4px solid;
 }
 .Grizzlies{
     grid-column:2 ;
