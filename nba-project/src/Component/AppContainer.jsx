@@ -11,7 +11,7 @@ class AppContainer extends Component{
     }
     render(){
         return(
-            <div>
+            <div className='nbaFan'>
                 <h1>Welcome NBA Fan</h1>
                 <img src="https://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" alt="nba-logo"/>
                 <h2>Click Below To view Available Teams For Your Fan Page!!!!</h2>

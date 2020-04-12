@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.nbaFan{
+  background-color: gray;
+  text-align: center;
+
+}
 
 .App-logo {
   height: 40vmin;
@@ -47,154 +52,184 @@ body{
   grid-column: 1;
   grid-row: 1;
    border: yellow 4px solid;
+   background-color: white;
 }
 .Warriors{
   grid-column: 1;
   grid-row:2 ;
   border:blue 4px solid;
+  background-color: white;
 
 }
 .Celtics{
   grid-column: 1;
   grid-row:3 ;
   border: green 4px solid;
+  background-color: white;
 }
 .Rockets{
   grid-column:1 ;
   grid-row: 4;
   border:red 4px solid;
+  background-color: white;
 }
 .Raptors{
   grid-column:1 ;
   grid-row: 5;
   border: red 4px solid;
+  background-color: white;
 }
 .Bucks{
   grid-column:1 ;
   grid-row: 6;
   border:green 4px solid;
+  background-color: white;
 }
 
 .Heat{
   grid-column: 1;
   grid-row:7 ;
   border:yellow 4px solid;
+  background-color: white;
 }
 .Pelicans{
   grid-column: 1;
   grid-row: 8;
   border: burlywood 4px solid;
+  background-color: white;
 }
 .Sixers{
   grid-column:1 ;
   grid-row: 9;
   border:blue 4px solid;
+  background-color: white;
 }
 .Mavericks{
   grid-column:1 ;
   grid-row: 10;
   border: skyblue 4px solid;
+  background-color: white;
 }
 .Spurs{
   grid-column:1 ;
   grid-row:11 ;
   border:black 4px solid;
+  background-color: white;
 }
 .Knicks{
 
   grid-column:1 ;
   grid-row: 12;
   border:orange 4px solid;
+  background-color: white;
 }
 .Thunder{
   grid-column: 1;
   grid-row: 13;
   border:blue 4px solid;
+  background-color: white;
 }
 .Bulls{
   grid-column:2 ;
   grid-row: 1;
   border: red 4px solid;
+  background-color: white;
 }
 .Nuggets{
   grid-column:2 ;
   grid-row: 2;
   border: gold 4px solid;
+  background-color: white;
 }
 .TrailBlazers{
   grid-column:2 ;
   grid-row:3 ;
   border: red 4px solid;
+  background-color: white;
 }
 .Cavaliers{
   grid-column:2 ;
   grid-row: 4;
   border: gold 4px solid;
+  background-color: white;
 }
 .Jazz{
   grid-column:2 ;
   grid-row: 5;
   border:green 4px solid;
+  background-color: white;
 }
 .Grizzlies{
   grid-column:2 ;
   grid-row: 6;
   border: blue 4px solid;
+  background-color: white;
 }
 .Kings{
   grid-column:2 ;
   grid-row: 7;
   border: purple 4px solid;
+  background-color: white;
 }
 .Nets{
   grid-column:2 ;
   grid-row: 8;
   border: black 4px solid;
+  background-color: white;
 }
 .Suns{
   grid-column:2 ;
   grid-row:9 ;
   border:orangered 4px solid;
+  background-color: white;
 }
 .Timberwolves{
   grid-column: 2;
   grid-row:10 ;
   border:lime 4px solid;
+  background-color: white;
 }
 .Hawks{
   grid-column:2 ;
   grid-row:11 ;
   border:yellow 4px solid;
+  background-color: white;
 }
 .Pacers{
   grid-column:2 ;
   grid-row: 12;
   border: rgb(16, 16, 83) 4px solid;
+  background-color: white;
 }
 .Wizards{
   grid-column:2 ;
   grid-row:13 ;
   border: red 4px solid;
+  background-color: white;
 }
 .Hornets{
   grid-column:2 ;
   grid-row: 14;
   border: rgb(0, 225, 255) 4px solid;
+  background-color: white;
 }
 .Pistons{
   grid-column: 1;
   grid-row: 15;
   border:blue 4px solid;
+  background-color: white;
 }
 .Magic{
   grid-column:2 ;
   grid-row:15 ;
   border: blue 4px solid;
+  background-color: white;
 }
 .clippers{
   grid-column:2 ;
   grid-row:16;
   border: red 4px solid;
+  background-color: white;
 }
 
 
